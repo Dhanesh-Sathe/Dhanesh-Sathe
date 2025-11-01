@@ -76,7 +76,7 @@ Here are the technologies I work with:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dhanesh-sathe&show_icons=true&locale=en&theme=radical" alt="Dhanesh's GitHub Stats" />
   <br/><br/>
-  <img src="https_github.com/github-readme-stats.vercel.app/api/top-langs?username=dhanesh-sathe&show_icons=true&locale=en&layout=compact&theme=radical" alt="Dhanesh's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dhanesh-sathe&show_icons=true&locale=en&layout=compact&theme=radical" alt="Dhanesh's Top Languages" />
   <br/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhanesh-sathe&theme=radical" alt="Dhanesh's Streak Stats" />
 </p>
@@ -90,3 +90,5 @@ Here are the technologies I work with:
     <img src="https://github-profile-trophy.vercel.app/?username=dhanesh-sathe" alt="dhanesh-sathe" />
   </a>
 </p>
+
+---
